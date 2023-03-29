@@ -13,3 +13,14 @@
 .cart h6 {
   font-size: 18px;
 }
+
+.order-confirm {
+  width: 100%;
+  background-color: orangered;
+  color: white;
+}
+
+.order-confirm:hover {
+  background-color: orange;
+  color: black;
+}
