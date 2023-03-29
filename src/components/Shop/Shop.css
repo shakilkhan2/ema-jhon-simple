@@ -8,9 +8,13 @@
   /* grid-template-columns: 1fr 1fr 1fr; */
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 45px;
-  margin: 120px 52px 120px 105px;
+  margin: 100px 52px 100px 52px;
 }
 
-.cart-container {
-  margin-top: 120px;
+.cart-container h4 {
+  text-align: center;
+}
+
+.cart-container p {
+  font-size: 14px;
 }
